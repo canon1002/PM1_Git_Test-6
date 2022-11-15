@@ -6,6 +6,5 @@ int main() {
 
 	std::cout << "Clone changed\n";
 
-
 	return 0;
 }
